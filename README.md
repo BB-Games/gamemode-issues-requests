@@ -1,7 +1,7 @@
 # BB Games Feature / Requests
 You can [report or request](https://github.com/BB-Games/gamemode-issues-requests/issues) features in this repository instead of our [forums found here](https://bbroleplay.co.uk/forums/index.php?forums/suggestions-bugs.223/).
 
-Keep in mind that this is to only supplement our main workflow over at the forums and is intended as an alternative if you don't have a forum account / don't want to sign up / already have a GitHub account. 
+Ideally we prefer if the majority of bugs / requests are posted here however we appreciate that many may still prefer to continue using the forums which is accepted (especially as many of our users may have a forum account, but not a Github account). 
 
 ## Etiquette 
 - Keep issues / requests to one per issue. 
