@@ -27,6 +27,8 @@ Ideally, you'd lay it out like so:
     2. Click on '....'
     3. Scroll down to '....'
     4. See error
+
+Sometimes issues can happen out of the blue. That's okay! As long as you give a rough idea of what you were doing at the time.
 -->
 
 **Screenshots**
