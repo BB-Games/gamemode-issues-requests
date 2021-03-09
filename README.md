@@ -7,11 +7,11 @@ Ideally we prefer if the majority of bugs / requests are posted here however we 
 - Keep issues / requests to one per issue. 
   - Don't combine issues / requests either.
 - Use the provided templates and don't stick on random tags.
-- If you've had an issue, e.g. not receiving something you donated for then please contact us directly via the forums, [Discord](https://discord.gg/KvqXqYR) or [Steam](http://steamcommunity.com/profiles/76561197981751723). 
+- If you've had an issue, e.g. not receiving something you donated for then please contact us directly via the forums, Discord or [Steam](http://steamcommunity.com/profiles/76561197981751723). 
 
 ### Bug reports
 - Make sure the bug hasn't been reported already, if it has feel free to use emoji to +1 it.
-- Anything potentially 'gamebreaking' like somehow gaining unlimited cubes or security, feel free to ping us directly via Steam / [Discord](https://discord.gg/KvqXqYR) instead.
+- Anything potentially 'gamebreaking' like somehow gaining unlimited cubes or security, feel free to ping us directly via [Steam](http://steamcommunity.com/profiles/76561197981751723) / Discord instead.
 
 ### Requests
 - Don't suggest powerups / power creep bonuses to select groups of people, e.g. donators.
